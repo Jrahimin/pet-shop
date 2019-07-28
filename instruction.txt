@@ -1,0 +1,5 @@
+# composer install
+# migrate & seed
+# credential csv file generated in public folder named administrators_yzipet.csv
+# copy old yzipet images folder to new ypizet storage->app->public directory
+# php artisan storage:link
