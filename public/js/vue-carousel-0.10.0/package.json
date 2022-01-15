@@ -67,7 +67,7 @@
     "prettier": "^1.10.2",
     "prettier-eslint": "^8.8.1",
     "prettier-eslint-cli": "^4.7.0",
-    "shelljs": "^0.7.5",
+    "shelljs": "^0.8.5",
     "sinon": "^1.17.6",
     "sinon-chai": "^2.8.0",
     "vue": "^2.1.8",
